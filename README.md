@@ -7,3 +7,18 @@ A not so basic electronic project... This is a LoRa Board which is great for mes
 ![GitHub Repo stars](https://img.shields.io/github/stars/vms-hc/corn-series?style=flat&logo=github&logoColor=white)[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
+## FAQ
+
+#### Is this good for beginners?
+
+Yes and no, if you know EDA/Kicad basics and could make a dev board without trouble you should be able to make this!
+
+#### How many layers is the PCB?
+
+This is a 4 layer PCB with a Earth layer and a +3V3 layer!
+
+#### Can I contribute?
+
+YES YOU CAN!!!! Take a peek at the Contributing section for a better guide on contributing!
+
+

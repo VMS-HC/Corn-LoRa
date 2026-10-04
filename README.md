@@ -21,4 +21,10 @@ This is a 4 layer PCB with a Earth layer and a +3V3 layer!
 
 YES YOU CAN!!!! Take a peek at the Contributing section for a better guide on contributing!
 
+## Authors
+
+- [@bobert3d](https://www.github.com/Bobert3D)
+
+- [@vms-hc](https://www.github.com/VMS-HC)
+
 

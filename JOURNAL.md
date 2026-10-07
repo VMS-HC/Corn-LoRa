@@ -55,3 +55,11 @@ Timelapse: https://lapse.hackclub.com/timelapse/IK4pxGH8sZ_W
 **Total time spent: 1h 42m**
 
 
+# October 4, 2026: BOM time!!
+
+I continued the Bom links to LCSC and that kind of thing but then I found out they don’t make 15uH inductors at 0402-1005 metric size so I changed my pcb and schematic to 8012 I think that’s the right size name idk something like that and I did drc and then finally exported the new and fixed files and gerbers and drill files along with the new Bom and pos 
+![](https://cdn.hackclub.com/01a1184a-1515-78fb-b59c-252f144b516b/IMG_0954.jpeg)
+Timelapse: https://lapse.hackclub.com/timelapse/2xBPIhkcMYNh
+
+**Total time spent: 37m**
+

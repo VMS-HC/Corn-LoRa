@@ -63,3 +63,15 @@ Timelapse: https://lapse.hackclub.com/timelapse/2xBPIhkcMYNh
 
 **Total time spent: 37m**
 
+**Total time spent: 1h 42m**
+
+
+# October 8, 2026: Fixing BOM and adding files to repo!
+
+I continued the Bom links to LCSC AGAIN!!! and I had to check the schematic and PCB a few times but otherwise easy and smooth sailing and I had a weird deal with my cart having 26 parts and my BOM having 28 or 29 but I fixed it and exported my fixed BOM from LCSC quote/BOM maker and I'm good and I'm going to ship and hope it gets approved!!!! TYSM! <3
+![](https://cdn.hackclub.com/01a11c95-d7f7-7536-80ab-fddc47f55ca5/Screenshot%202026-10-08%2011.35.28%20AM.png)
+![](https://cdn.hackclub.com/01a11c96-7759-7d01-8fb3-a8c4c9dd15d3/Screenshot%202026-10-08%2011.36.16%20AM.png)
+Timelapse: https://lapse.hackclub.com/timelapse/UgbOoN_d3eiA
+
+**Total time spent: 50m**
+

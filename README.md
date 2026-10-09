@@ -2,14 +2,19 @@
   <img src="rainbow.svg" width="800" alt="Moving Rainbow Gradient Text" />
 </p>
 
-A not so basic electronic project... This is a LoRa Board which is great for meshtastic but not great for my sanity when routing! This has a SX1262 radio chip and uses a RP2040 for the microcontroller along with a crystal occulator for the RP2040 like any normal dev board. Corn LoRa also includes a *0900FM15D0039* as a IPD (integrated passive device) by Johanson which controlls the balun and filtering (868-915MHz, may be different footprint) To switch between TX and RX, it uses an RF switch, controlled by DIO2; along with a PE4259 for a 2 channel switcher (as mentioned above!).
-
+A not so basic electronic project... This is a LoRa Board which is great for meshtastic but not great for my sanity when routing! This has a SX1262 radio chip and uses a RP2040 for the microcontroller along with a crystal oscillator for the RP2040 like any normal dev board. Corn LoRa also includes a *0900FM15D0039* as a IPD (integrated passive device) by Johanson which controls the balun and filtering (868-915MHz, may be different footprint) To switch between TX and RX, it uses an RF switch, controlled by DIO2; along with a PE4259 for a 2 channel switcher (as mentioned above!). It also uses a bulky non-standard Conn for an antenna! 
+Ty for looking and have a good day! <3!
 <img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/2f486366-7ebe-4dd3-90ec-4b5c3b430da9" /># Corn-LoRa PCB photo!
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/vms-hc/corn-lora?style=flat&logo=github&logoColor=white)  [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
 
 ## FAQ
+
+
+#### BOM?
+
+There are 2 BOM technically one has the LCSC part numbers and the others is a quote from LCSC with links to parts too!
 
 #### Is this good for beginners?
 

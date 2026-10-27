@@ -12,6 +12,9 @@ Ty for looking and have a good day! <3!
 
 ## FAQ
 
+#### CAD? 
+ Here! https://cad.onshape.com/documents/798bf0a7dc11aab5a7bf582d/w/40104e5f41c3cdcce0e1b7a0/e/90af93f35366755db2896de5?renderMode=0&uiState=6ae0c972e6e866bde4647e71
+ 
 #### BOM?
 
 There are 2 BOM technically one has the LCSC part numbers and the others is a quote from LCSC with links to parts too!

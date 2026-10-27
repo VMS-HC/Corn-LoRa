@@ -3,20 +3,22 @@ title: "Corn LoRa!"
 github: "https://github.com/VMS-HC/Corn-LoRa/tree/main"
 description: "A LoRa puck of the corn series!!! This was just a lets do something a little harder but it was very fun! Thanks!"
 created_at: "2026-10-03"
-total_time: "5h 30m"
+total_time: "6h 57m"
 ---
 
 # October 3, 2026: A TONNN!!!!! OF WORK!!!
+<!-- fabricate:entry 94 -->
 
 SO! I did a 2 ish (more lol) session at my makerspace and locked in for kicad and I got almost the entire PCB done before routing!!!! Im sooo close lol and I cant wait! TYSM!
-![image.png](https://cdn.hackclub.com/01a0dfed-cfb6-7217-9a5b-b81012d83fa5/image.png)
+![image.png](https://fabricate.hackclub-assets.com/11346099799d4be9e8a25b7b7b2886ac7834d9f02490ee6547170c450206120c/image-png/image.png)
 <3!
 
 Timelapse: https://lapse.hackclub.com/timelapse/5QtBMyAMPZ38
 
 **Total time spent: 2h 12m**
 
-# October 3, 2026: Started the schematic!!!
+# October 3, 2026 (entry 2): Started the schematic!!!
+<!-- fabricate:entry 95 -->
 
 I started the schematic and added the main parts lol but I realized I need to get more organized so I redid the schematic and now Its good!!! Also I forgot to do this one before the PCB starting one lol but idk!
 
@@ -26,7 +28,8 @@ Timelapse: https://lapse.hackclub.com/timelapse/7STcW7NEFYpA
 
 **Total time spent: 1h 12m**
 
-# October 3, 2026: More placement and movement of footprints!...:3
+# October 3, 2026 (entry 3): More placement and movement of footprints!...:3
+<!-- fabricate:entry 111 -->
 
 So I continued to move some stuff and fix the placement of a few footprints but I couldn't figure out which ones went where so I stopped and cried but pushed through and I only have 3 footprints left before I'm going to start routing!!!!
 
@@ -38,6 +41,7 @@ Timelapse: https://lapse.hackclub.com/timelapse/5mFJXgL974Ie
 **Total time spent: 24m**
 
 # October 4, 2026: death to part
+<!-- fabricate:entry 124 -->
 
 So I continued to setup the PCB and I'm finally done!!!! but... I have these 2 DRC errors that say something along the lines of fu top and inu aren't connected and same for fu top and bu bottom???? what pls help lol ai is useless and I cant fix it with vias lol?? I also fixed the majority of the first DRC so its only the 2 now.
 
@@ -54,24 +58,21 @@ Timelapse: https://lapse.hackclub.com/timelapse/IK4pxGH8sZ_W
 
 **Total time spent: 1h 42m**
 
-
 # October 7, 2026: BOM time!!
+<!-- fabricate:entry 191 -->
 
 I continued the Bom links to LCSC and that kind of thing but then I found out they don’t make 15uH inductors at 0402-1005 metric size so I changed my pcb and schematic to 8012 I think that’s the right size name idk something like that and I did drc and then finally exported the new and fixed files and gerbers and drill files along with the new Bom and pos 
-![](https://cdn.hackclub.com/01a1184a-1515-78fb-b59c-252f144b516b/IMG_0954.jpeg)
+![](https://fabricate.hackclub-assets.com/f64bc1b8901d7090b5144f2c4b214dfc3df5d5ba705d786f4a7c15be9b074de8/image-jpeg/IMG_0954.jpeg)
 Timelapse: https://lapse.hackclub.com/timelapse/2xBPIhkcMYNh
 
 **Total time spent: 37m**
 
-**Total time spent: 1h 42m**
-
-
 # October 8, 2026: Fixing BOM and adding files to repo!
+<!-- fabricate:entry 204 -->
 
 I continued the Bom links to LCSC AGAIN!!! and I had to check the schematic and PCB a few times but otherwise easy and smooth sailing and I had a weird deal with my cart having 26 parts and my BOM having 28 or 29 but I fixed it and exported my fixed BOM from LCSC quote/BOM maker and I'm good and I'm going to ship and hope it gets approved!!!! TYSM! <3
-![](https://cdn.hackclub.com/01a11c95-d7f7-7536-80ab-fddc47f55ca5/Screenshot%202026-10-08%2011.35.28%20AM.png)
-![](https://cdn.hackclub.com/01a11c96-7759-7d01-8fb3-a8c4c9dd15d3/Screenshot%202026-10-08%2011.36.16%20AM.png)
+![](https://fabricate.hackclub-assets.com/105cf91993e6f915817c006db461bf5cdc58ae71db47d55ad171a430521cdea3/image-png/Screenshot%202026-10-08%2011.35.28%20AM.png)
+![](https://fabricate.hackclub-assets.com/bca2472268ec2dfd0d527da6df4570b890da222b453934e7c2ffe04965807df0/image-png/Screenshot%202026-10-08%2011.36.16%20AM.png)
 Timelapse: https://lapse.hackclub.com/timelapse/UgbOoN_d3eiA
 
 **Total time spent: 50m**
-
